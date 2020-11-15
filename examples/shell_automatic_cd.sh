@@ -20,4 +20,4 @@ ranger_cd() {
 }
 
 # This binds Ctrl-O to ranger-cd:
-bind '"\C-o":"ranger-cd\C-m"'
+bind '"\C-o":"ranger_cd\C-m"'
